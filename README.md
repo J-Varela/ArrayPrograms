@@ -1,2 +1,1 @@
-# ArrayPrograms
-Array methods 
+# Java Array Methods
